@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="150e5d3c-b467-4f17-a568-4de4ac3f7517" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YDRYodKQrqv3q08Lh7HsJtDxTQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api" />
+      <recent name="$PROJECT_DIR$/calc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_api">
+    <configuration name="run_api" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run_api" />
+      <item itemvalue="Python.test" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="150e5d3c-b467-4f17-a568-4de4ac3f7517" name="Default Changelist" comment="" />
+      <created>1582475228978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582475228978</updated>
+      <workItem from="1582475235710" duration="12278000" />
+      <workItem from="1582545235171" duration="3540000" />
+      <workItem from="1582549881130" duration="14766000" />
+      <workItem from="1582632373600" duration="1304000" />
+      <workItem from="1582647765150" duration="1019000" />
+      <workItem from="1583324818248" duration="1996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="876" y="424" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583325338821">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="876" y="424" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1583325338821" />
+    <state x="1166" y="531" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1340@0.23.2560.1340" timestamp="1582488748874" />
+    <state x="1562" y="665" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583328488341">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1562" y="665" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1583328488341" />
+    <state x="1201" y="361" width="1259" height="901" key="DiffContextDialog" timestamp="1582565693122">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state x="1201" y="361" width="1259" height="901" key="DiffContextDialog/0.23.2560.1340@0.23.2560.1340" timestamp="1582565693122" />
+    <state width="1061" height="271" key="GridCell.Tab.0.bottom" timestamp="1583328516763">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1061" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1583328516763" />
+    <state width="1417" height="275" key="GridCell.Tab.0.bottom/0.23.2560.1340@0.23.2560.1340" timestamp="1582568449338" />
+    <state width="1061" height="271" key="GridCell.Tab.0.center" timestamp="1583328516762">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1061" height="271" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1583328516762" />
+    <state width="1417" height="275" key="GridCell.Tab.0.center/0.23.2560.1340@0.23.2560.1340" timestamp="1582568449338" />
+    <state width="1061" height="271" key="GridCell.Tab.0.left" timestamp="1583328516762">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1061" height="271" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1583328516762" />
+    <state width="1417" height="275" key="GridCell.Tab.0.left/0.23.2560.1340@0.23.2560.1340" timestamp="1582568449337" />
+    <state width="1061" height="271" key="GridCell.Tab.0.right" timestamp="1583328516763">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1061" height="271" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1583328516763" />
+    <state width="1417" height="275" key="GridCell.Tab.0.right/0.23.2560.1340@0.23.2560.1340" timestamp="1582568449338" />
+    <state width="1889" height="374" key="GridCell.Tab.1.bottom" timestamp="1582491353430">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state width="1889" height="374" key="GridCell.Tab.1.bottom/0.23.2560.1340@0.23.2560.1340" timestamp="1582491353430" />
+    <state width="1889" height="374" key="GridCell.Tab.1.center" timestamp="1582491353430">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state width="1889" height="374" key="GridCell.Tab.1.center/0.23.2560.1340@0.23.2560.1340" timestamp="1582491353430" />
+    <state width="1889" height="374" key="GridCell.Tab.1.left" timestamp="1582491353430">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state width="1889" height="374" key="GridCell.Tab.1.left/0.23.2560.1340@0.23.2560.1340" timestamp="1582491353430" />
+    <state width="1889" height="374" key="GridCell.Tab.1.right" timestamp="1582491353430">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state width="1889" height="374" key="GridCell.Tab.1.right/0.23.2560.1340@0.23.2560.1340" timestamp="1582491353430" />
+    <state x="861" y="471" key="SettingsEditor" timestamp="1583325317913">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="861" y="471" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1583325317913" />
+    <state x="861" y="472" key="SettingsEditor/0.23.2560.1340@0.23.2560.1340" timestamp="1582566898287" />
+    <state x="953" y="477" width="1498" height="785" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582477386760">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state x="953" y="477" width="1498" height="785" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.2560.1340@0.23.2560.1340" timestamp="1582477386760" />
+    <state x="1397" y="643" key="com.intellij.ide.util.TipDialog" timestamp="1583324818551">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1397" y="643" key="com.intellij.ide.util.TipDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1583324818551" />
+    <state x="1397" y="644" key="com.intellij.ide.util.TipDialog/0.23.2560.1340@0.23.2560.1340" timestamp="1582644400546" />
+    <state x="1489" y="433" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582565334618">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state x="1489" y="433" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.2560.1340@0.23.2560.1340" timestamp="1582565334618" />
+    <state x="1495" y="507" width="670" height="676" key="search.everywhere.popup" timestamp="1582551825075">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state x="1495" y="507" width="670" height="676" key="search.everywhere.popup/0.23.2560.1340@0.23.2560.1340" timestamp="1582551825075" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled$test.coverage" NAME="test Coverage Results" MODIFIED="1583325345019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$start.coverage" NAME="test Coverage Results" MODIFIED="1582491192868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$run_api.coverage" NAME="run_api Coverage Results" MODIFIED="1583325319316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
